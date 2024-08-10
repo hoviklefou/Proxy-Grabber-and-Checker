@@ -4,7 +4,6 @@ Welcome to the **Proxy Checker** project! This script is designed to gather and 
 
 ## Features
 
-- **Rainbow Text**: Enjoy colorful terminal output that brightens up your console with every line.
 - **Multithreading**: Speed up proxy checking using multiple threads.
 - **Proxy Collection**: Fetch proxies from multiple sources to ensure a wide variety.
 - **Working Proxy Logging**: Automatically save working proxies to a file.
@@ -16,3 +15,5 @@ Welcome to the **Proxy Checker** project! This script is designed to gather and 
    ```bash
    git clone https://github.com/yourusername/proxy-checker.git
    cd proxy-checker
+
+# 15 Stars = Webhook support and faster system.
